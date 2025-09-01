@@ -28,23 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazeenasif&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazeenasif&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-## 🔥 Streak Stats  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nazeenasif&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
